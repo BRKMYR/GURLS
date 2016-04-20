@@ -4,7 +4,7 @@
 
 % Available TEST TYPE: '28_objects', '7_objects', 'attribute_shape',
 % 'attribute_material', and 'affordances'
-TEST_TYPE = 'affordances';
+TEST_TYPE = '7_objects';
 
 %% Xtr and Xte (but not ytr and yte!!!) are identical for 28 objects / 7 objects / affordances etc.
 filenameXtrain = '../../gurls/demo/train_data/Xtr.csv'; %nxd input data matrix for training
